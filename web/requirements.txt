@@ -3,7 +3,7 @@ astroid==2.3.3
 autopep8==1.5.1
 bleach==3.1.4
 colorama==0.4.3
-Django==3.0.7
+Django==3.1.13
 django-url-prefixer==0.1.0
 entrypoints==0.3
 flake8==3.7.9
